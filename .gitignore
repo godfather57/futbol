@@ -1,13 +1,9 @@
 *.pyc
-*.py[cod]
 *~
-*.so
 __pycache__/
 myvenv
 db.sqlite3
 .DS_Store
-
-*.so
 
 home/migrations/*
 !home/migrations/__init__.py
@@ -19,33 +15,3 @@ klup/migrations/*
 ligler/migrations/*
 !ligler/migrations/__init__.py
 
-Scripts/
-build/
-develop-eggs/
-dist/
-eggs/
-*.egg
-.tox/
-
-.coverage
-.cache
-nosetests.xml
-coverage.xml
-pip-log.txt
-pip-delete-this-directory.txt
-lib/
-lib64/
-*.mo
-.mr.developer.cfg
-.project
-.pydevproject
-parts/
-sdist/
-var/
-.ropeproject
-media
-*.log
-*.pot
-staticfiles
-docs/_build/
-.idea
