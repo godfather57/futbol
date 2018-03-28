@@ -26,7 +26,7 @@ dist/
 eggs/
 *.egg
 .tox/
-*.egg-info/
+
 .coverage
 .cache
 nosetests.xml
